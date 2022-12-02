@@ -1,0 +1,53 @@
+{
+  "Sprint Zero": {
+    "create base components":{
+      "estimation": 4,
+      "started": 1669924141547,
+      "time tracked": 4,
+      "finished": true
+    },
+    "add stopwatch":{
+      "estimation": 2,
+      "started": 1669924141547,
+      "time tracked": 0,
+      "finished": true
+    },
+    "add saving data to config": {
+      "estimation": 2,
+      "started": 1669924141547,
+      "time tracked": 0,
+      "finished": true
+    },
+    "Add backend communication": {
+      "estimation": 2,
+      "time tracked": 0
+    },
+    "allow modifying ticket properties": {
+      "estimation": 2,
+      "time tracked": 0
+    },
+    "Add option to create sprints and tickets": {
+      "estimation": 2,
+      "time tracked": 0
+    },
+    "Calculate by new time of the start": {
+      "estimation": 2,
+      "time tracked": 0
+    },
+    "Add progressbar to timer": {
+      "estimation": 2,
+      "started": 1669924141547,
+      "time tracked": 0
+    }
+  },
+  "extensions sprint": {
+    "export as library": {
+      "estimation": 8,
+      "time tracked": 0
+    },
+    "make proper readme": {
+      "estimation": 1,
+      "time tracked": 0
+    }
+  }
+}
